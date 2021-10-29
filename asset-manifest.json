@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Simple-Calculator/my-calc/static/css/main.b5326a7e.chunk.css",
-    "main.js": "/Simple-Calculator/my-calc/static/js/main.b196e924.chunk.js",
-    "main.js.map": "/Simple-Calculator/my-calc/static/js/main.b196e924.chunk.js.map",
-    "runtime-main.js": "/Simple-Calculator/my-calc/static/js/runtime-main.ff422f22.js",
-    "runtime-main.js.map": "/Simple-Calculator/my-calc/static/js/runtime-main.ff422f22.js.map",
-    "static/js/2.06118603.chunk.js": "/Simple-Calculator/my-calc/static/js/2.06118603.chunk.js",
-    "static/js/2.06118603.chunk.js.map": "/Simple-Calculator/my-calc/static/js/2.06118603.chunk.js.map",
-    "index.html": "/Simple-Calculator/my-calc/index.html",
-    "static/css/main.b5326a7e.chunk.css.map": "/Simple-Calculator/my-calc/static/css/main.b5326a7e.chunk.css.map",
-    "static/js/2.06118603.chunk.js.LICENSE.txt": "/Simple-Calculator/my-calc/static/js/2.06118603.chunk.js.LICENSE.txt"
+    "main.css": "/Simple-Calculator/static/css/main.b5326a7e.chunk.css",
+    "main.js": "/Simple-Calculator/static/js/main.fb1f58f0.chunk.js",
+    "main.js.map": "/Simple-Calculator/static/js/main.fb1f58f0.chunk.js.map",
+    "runtime-main.js": "/Simple-Calculator/static/js/runtime-main.842de6da.js",
+    "runtime-main.js.map": "/Simple-Calculator/static/js/runtime-main.842de6da.js.map",
+    "static/js/2.06118603.chunk.js": "/Simple-Calculator/static/js/2.06118603.chunk.js",
+    "static/js/2.06118603.chunk.js.map": "/Simple-Calculator/static/js/2.06118603.chunk.js.map",
+    "index.html": "/Simple-Calculator/index.html",
+    "static/css/main.b5326a7e.chunk.css.map": "/Simple-Calculator/static/css/main.b5326a7e.chunk.css.map",
+    "static/js/2.06118603.chunk.js.LICENSE.txt": "/Simple-Calculator/static/js/2.06118603.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff422f22.js",
+    "static/js/runtime-main.842de6da.js",
     "static/js/2.06118603.chunk.js",
     "static/css/main.b5326a7e.chunk.css",
-    "static/js/main.b196e924.chunk.js"
+    "static/js/main.fb1f58f0.chunk.js"
   ]
 }
