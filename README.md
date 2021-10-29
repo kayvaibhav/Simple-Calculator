@@ -1,3 +1,3 @@
 # Simple-Calculator
 ________________________
-#<a href="kayvaibhav-simple-calculator.netlify.app">Live Site</a>
+[Try it Live!](kayvaibhav-simple-calculator.netlify.app)
